@@ -1,0 +1,4 @@
+le repertoire de base ne doit pas contenir demo : java/com/sudria/demo
+Le nom de la classe DemoApplication
+Dans Security, le role ESME n'est pas utilisé. A quoi sert il ?
+La classe supervisor n'a rien a faire dans le package domain
